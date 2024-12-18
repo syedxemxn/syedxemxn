@@ -22,12 +22,13 @@
 <table>
   <tr>
     <td style="text-align: center;">
+    <h2>A Full Stack Developer</h2>
       <p>
         As a 19-year-old Full Stack Developer, I am incredibly passionate about technology and constantly strive to learn and grow. From building dynamic user interfaces with HTML, CSS, and JavaScript, to developing robust back-end systems using Python and Django, I embrace the full stack with enthusiasm. I enjoy both the creative aspects of front-end development and the problem-solving challenges of back-end programming. I am dedicated to delivering high-quality, scalable applications and am always eager to explore new tools, frameworks, and techniques. Being a Full Stack Developer allows me to bring my ideas to life and contribute to building the web of tomorrow.
       </p>
     </td>
     <td style="text-align: right;">
-      <img src="img.png" alt="Full Stack GIF" width="4000" height= "300"/>
+      <img src="img.png" alt="Full Stack GIF" width="6000" height= "300"/>
     </td>
   </tr>
 </table>
@@ -75,28 +76,65 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themystiquemindset&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themystiquemindset&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedxemxn&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedxemxn&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
 ## 💻 My Recent Projects
-- 🌟 *[Weather App](https://themystiquemindset.github.io/weather-app/)*: A simple weather application that provides current weather details and uses live weather data from OpenWeather API.
-- 🌟 *[Markdown Editor](https://themystiquemindset.github.io/Markdown-Editor/)*: A simple and interactive Markdown editor for live preview and formatting, developed using HTML, CSS, and JavaScript.
-- 🌟 *[Project Name](#)*: A brief description of the project.
 
 ---
 
-<!-- ## 📫 Contact Me
-📧 Email: [mishiaman142@gmail.com](mailto:muishiaman142@gmail.com)  
-🤝 Open to collaborations and consultations!   -->
+### 🌟 *[Weather App](https://github.com/syedxemxn/weather-app)*
+A simple weather application that provides current weather details and uses live weather data from the OpenWeather API.  
+**Technologies Used**: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
 
 ---
+
+### 🌟 *[Markdown Editor](https://github.com/syedxemxn/Markdown-Editor)*
+An interactive Markdown editor for live preview and formatting, developed using HTML, CSS, and JavaScript.  
+**Technologies Used**: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+---
+
+### 🌟 *[Todo Application](#)*
+A simple Todo app that allows users to add, edit, and remove tasks. A great project to learn local storage and basic JavaScript functionalities.  
+**Technologies Used**: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+
+---
+
+
+
+### ✨ Let's Connect! ✨
 
 <div align="center">
-  <h3>✨ Let's Connect! ✨</h3>
-  <a href="https://github.com/themystiquemindset"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:muishiaman142@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/syedxemxn" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:syeda_emxn@icloud.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/yourprofile" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/yourprofile" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
+
+---

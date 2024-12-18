@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Syeda+Eman;A+Dedicated+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Syeda+Eman;A+Dedicated+Full+Stack+Developer" />
   </a>
 </h1>
 
@@ -15,21 +15,23 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=A+Passionate+Web+Developer;Transforming+Ideas+Into+Web+Reality" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000FF&center=true&vCenter=true&width=600&lines=A+Passionate+Web+Developer;Transforming+Ideas+Into+Web+Reality" />
   </a>
 </h2>
 
 <br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <h2>𝐀 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h2>
-    <p>𝘈𝘴 𝘢 19-𝘺𝘦𝘢𝘳-𝘰𝘭𝘥 𝘍𝘂𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘐 𝘢𝘮 𝘪𝘯𝘤𝘳𝘦𝘥𝘪𝘣𝘭𝘺 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘢𝘯𝘥 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘴𝘵𝘳𝘪𝘷𝘦 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘢𝘯𝘥 𝘨𝘳𝘰𝘸. 𝘍𝘳𝘰𝘮 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘥𝘺𝘯𝘢𝘮𝘪𝘤 𝘶𝘴𝘦𝘳 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦𝘴 𝘸𝘪𝘵𝘩 𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚, 𝘢𝘯𝘥 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵, 𝘵𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘳𝘰𝘣𝘶𝘴𝘵 𝘣𝘢𝘤𝘬-𝘦𝘯𝘥 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘶𝘴𝘪𝘯𝘨 𝘗𝘺𝘵𝘩𝘰𝘯 𝘢𝘯𝘥 𝘋𝘫𝘢𝘯𝘨𝘰, 𝘐 𝘦𝘮𝘣𝘳𝘢𝘤𝘦 𝘵𝘩𝘦 𝘧𝘶𝘭𝘭 𝘴𝘵𝘢𝘤𝘬 𝘸𝘪𝘵𝘩 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘮. 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘣𝘰𝘵𝘩 𝘵𝘩𝘦 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘦 𝘢𝘴𝘱𝘦𝘤𝘵𝘴 𝘰𝘧 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮-𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦𝘴 𝘰𝘧 𝘣𝘢𝘤𝘬-𝘦𝘯𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. 𝘐 𝘢𝘮 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘵𝘰 𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘪𝘯𝘨 𝘩𝘪𝘨𝘩-𝘲𝘶𝘢𝘭𝘪𝘵𝘺, 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘯𝘥 𝘢𝘮 𝘢𝘭𝘸𝘢𝘺𝘴 𝘦𝘢𝘨𝘦𝘳 𝘵𝘰 𝘦𝘹𝘱𝘭𝘰𝘳𝘦 𝘯𝘦𝘸 𝘵𝘰𝘰𝘭𝘴, 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴, 𝘢𝘯𝘥 𝘵𝘦𝘤𝘩𝘯𝘪𝘲𝘶𝘦𝘴. 𝘉𝘦𝘪𝘯𝘨 𝘢 𝘍𝘂𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘭𝘭𝘰𝘸𝘴 𝘮𝘦 𝘵𝘰 𝘣𝘳𝘪𝘯𝘨 𝘮𝘺 𝘪𝘥𝘦𝘢𝘴 𝘵𝘰 𝘭𝘪𝘧𝘦 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘵𝘩𝘦 𝘸𝘦𝘣 𝘰𝘧 𝘵𝘰𝘮𝘰𝘳𝘳𝘰𝘸.</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="img.png" alt="Full Stack GIF" width="600" height="300"/>
-  </div>
-</div>
+<<table style="width: 100%; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; padding-right: 20px; vertical-align: top;">
+      <h2>𝐀 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h2>
+      <p>𝘼𝙨 𝙖 19-𝙮𝙚𝙖𝙧-𝙤𝙡𝙙 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙄 𝙖𝙢 𝙞𝙣𝙘𝙧𝙚𝙙𝙞𝙗𝙡𝙮 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙖𝙣𝙙 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙡𝙮 𝙨𝙩𝙧𝙞𝙫𝙚 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙜𝙧𝙤𝙬. 𝙁𝙧𝙤𝙢 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙙𝙮𝙣𝙖𝙢𝙞𝙘 𝙪𝙨𝙚𝙧 𝙞𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙚𝙨 𝙬𝙞𝙩𝙝 𝙃𝙏𝙈𝙇, 𝘾𝙎𝙎, 𝙖𝙣𝙙 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, 𝙩𝙤 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜 𝙧𝙤𝙗𝙪𝙨𝙩 𝙗𝙖𝙘𝙠-𝙚𝙣𝙙 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙪𝙨𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 𝙖𝙣𝙙 𝘿𝙟𝙖𝙣𝙜𝙤, 𝙄 𝙚𝙢𝙗𝙧𝙖𝙘𝙚 𝙩𝙝𝙚 𝙛𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠 𝙬𝙞𝙩𝙝 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙢. 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙗𝙤𝙩𝙝 𝙩𝙝𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙖𝙨𝙥𝙚𝙘𝙩𝙨 𝙤𝙛 𝙛𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙙𝙚𝙛𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙘𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚𝙨 𝙤𝙛 𝙗𝙖𝙘𝙠-𝙚𝙣𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜. 𝙄 𝙖𝙢 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙙𝙚𝙡𝙞𝙫𝙚𝙧𝙞𝙣𝙜 𝙝𝙞𝙜𝙝-𝙦𝙪𝙖𝙡𝙞𝙩𝙮, 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙖𝙣𝙙 𝙖𝙢 𝙖𝙡𝙬𝙖𝙮𝙨 𝙚𝙖𝙜𝙚𝙧 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙚 𝙣𝙚𝙬 𝙩𝙤𝙤𝙡𝙨, 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨, 𝙖𝙣𝙙 𝙩𝙚𝙘𝙝𝙣𝙞𝙦𝙪𝙚𝙨. 𝘽𝙚𝙞𝙣𝙜 𝙖 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙖𝙡𝙡𝙤𝙬𝙨 𝙢𝙚 𝙩𝙤 𝙗𝙧𝙞𝙣𝙜 𝙢𝙮 𝙞𝙙𝙚𝙖𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚 𝙖𝙣𝙙 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙩𝙤 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙝𝙚 𝙬𝙚𝙗 𝙤𝙛 𝙩𝙤𝙢𝙤𝙧𝙧𝙤𝙬.</p>
+    </td>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding-left: 20px;">
+      <img src="img.png" alt="Full Stack GIF" width="100%" height="auto"/>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -40,7 +42,11 @@
 </div>
 
 
-##  𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐋𝐨𝐯𝐞🚀
+ <h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Technologies+I+Love;" />
+  </a>
+</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,azure,linux" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,express,nginx,docker,mongodb,kubernetes,mysql,postgresql,django,flask,fastapi,kafka" /><br>
@@ -73,16 +79,24 @@
 - 📖 Always eager to learn and grow in the tech field!  
 
 ---
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=📊+Github+Sats;" />
+  </a>
+</h2>
 
-## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedxemxn&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedxemxn&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=💻+Projects;" />
+  </a>
+</h2>
 
-## 💻 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 ---
 
@@ -116,25 +130,14 @@ A simple Todo app that allows users to add, edit, and remove tasks. A great proj
 ---
 
 
-
-### ✨ 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭! ✨
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=✨+Lets+Connect!+✨;" />
+  </a>
+</h2>
 
 <div align="center">
-  <a href="https://github.com/syedxemxn" style="margin-right: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px; transition: transform 0.3s ease;">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" style="margin-right: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; transition: transform 0.3s ease;">
-  </a>
-  <a href="mailto:syeda_emxn@icloud.com" style="margin-right: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email" style="border-radius: 10px; transition: transform 0.3s ease;">
-  </a>
-  <a href="https://twitter.com/yourprofile" style="margin-right: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px; transition: transform 0.3s ease;">
-  </a>
-  <a href="https://instagram.com/yourprofile" style="margin-right: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px; transition: transform 0.3s ease;">
-  </a>
-</div>
-
----
+<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/></a>
+<a href = "https://twitter.com/aadarshhanu" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank"/></a>
+<a href = "https://github.com/syedxemxn" ><img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/></a>
+<a href = "mailto:syeda_emxn@gmail.com" ><img src="https://img.icons8.com/fluent/48/000000/email.png" target="_blank"/></a>

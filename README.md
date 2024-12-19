@@ -72,17 +72,6 @@
 - **Aspiring** to pursue a career in **Cyber Security**  
 - 📖 Always eager to learn and grow in the tech field!  
 
----
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=📊+Github+Sats;" />
-  </a>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedxemxn&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedxemxn&theme=radical&hide_border=true" width="48%" />
-</div>
 
 ---
 <h2 align="center">

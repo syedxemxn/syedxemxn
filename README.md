@@ -5,21 +5,8 @@
 </h1>
 
 
-
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="900" height="300" alt="Coding gif"/>
-</div>
-
 ---
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000FF&center=true&vCenter=true&width=600&lines=A+Passionate+Web+Developer;Transforming+Ideas+Into+Web+Reality" />
-  </a>
-</h2>
-
-<br/>
 
 <<table style="width: 100%; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
   <tr>
@@ -53,6 +40,13 @@
 </div>
 
 ---
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2000&pause=1000&color=000000FF&center=true&vCenter=true&width=600&lines=A+Passionate+Web+Developer;Transforming+Ideas+Into+Web+Reality" />
+  </a>
+</h2>
+
+<br/>
 
 ### 🚀 𝐁𝐚𝐜𝐤 𝐄𝐧𝐝 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
 

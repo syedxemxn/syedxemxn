@@ -8,7 +8,7 @@
 ---
 
 
-<<table style="width: 100%; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
+<table style="width: 100%; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; padding-right: 20px; vertical-align: top;">
       <h2>𝐀 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h2>
